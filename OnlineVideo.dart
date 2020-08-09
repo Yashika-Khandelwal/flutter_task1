@@ -37,7 +37,7 @@ class _HomePageState extends State<OnlineVideo> {
       appBar: AppBar(
         
         title: Text(
-          'OFFLINE VIDEO PLAYER',
+          'ONLINE VIDEO PLAYER',
           style: TextStyle(
             fontStyle: FontStyle.italic,
             fontSize: 20,
